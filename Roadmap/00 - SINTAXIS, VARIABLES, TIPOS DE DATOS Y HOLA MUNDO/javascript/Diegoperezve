@@ -1,0 +1,21 @@
+// https://developer.mozilla.org/es/docs/Web/JavaScript
+
+// Asi se crea una Linea de comentario en Javascript
+
+/*
+esta es una forma de crear varias lineas simultaneas de 
+comentarios utilizando Javascript
+*/
+
+let variable1;
+var variable2;
+const constante = "";
+
+let cadenaDeTexto = "Soy una cadena de texto";
+let numeroEntero = 12;
+let numeroDecimal = 3.14;
+let booleanos = true;
+let indefinido = undefined;
+let falso = false;
+
+console.log("¡Hola, JavaScript!")
